@@ -32,8 +32,8 @@ Practice building a web page using semantic layout and incremental development.
 1. Develop one story at a time
     1. Create a new branch before beginning each story
     1. Code the story _entirely_. Make sure the code is pretty and everything works
+    1. Merge the finished branch into master (on your computer!)
     1. Push the new branch to GitHub
-    1. Merge the completed story into `master`
     1. Push `master` to GitHub
     1. Repeat!
 1. have a nice day!
