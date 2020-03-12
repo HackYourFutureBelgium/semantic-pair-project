@@ -44,7 +44,7 @@ Practice building a web page using semantic layout and incremental development.
 
 ## Wireframe
 
-![wireframe](./wireframe.jpg)
+![wireframe](./wireframe.gif)
 
 [TOP](#semantic-pair-project)
 
